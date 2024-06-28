@@ -118,6 +118,14 @@ a {
 	.tile {
 		width: calc((400px / 4) - 5px);
 	}
+	
+	.social-wrapper svg {
+		width: 30px;
+		height: 30px;
+	}
+	.social-wrapper span {
+		font-size: 18px;
+	}
 }
 
 @media screen and (width < 552px) {
