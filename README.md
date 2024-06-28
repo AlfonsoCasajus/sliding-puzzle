@@ -3,6 +3,9 @@
 
 Prueba tecnica realizada por Alfonso Casajus para Media Monks.
 
+## Instalacion
+- git clone https://github.com/AlfonsoCasajus/sliding-puzzle.git
+- Abrir archivo index.html
 
 
 ## Testeo
