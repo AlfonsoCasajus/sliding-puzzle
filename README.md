@@ -1,7 +1,7 @@
 
-# Media Monks - Sliding Puzzle
+# Sliding Puzzle
 
-Prueba tecnica realizada por Alfonso Casajus para Media Monks.
+Juego rompecabezas donde las piezas comienzan desordenadas y se debe mover de a una a la vez para armar la imagen
 
 ## Instalacion
 - git clone https://github.com/AlfonsoCasajus/sliding-puzzle.git
@@ -22,7 +22,8 @@ Para que sea mas facil el testeo se dejo comentada una linea de codigo que deja 
 `Anime.js`
 
 
-En su mayoria no utilice ningun framework o libreria, busque realizar el challenge lo mas "limpio" posible. Sin embargo el puzzle contiene algunas animaciones para lo que utilice la libreria Anime.JS (https://animejs.com/)
+La unica libreria utilizada fue Anime.JS (https://animejs.com/)
+
 ## Autor
 
 - [@alfonsoCasajus](https://www.github.com/AlfonsoCasajus)
